@@ -1,4 +1,4 @@
-package com.dbtest.srain.srbanner.activity;
+package com.srain.srbanner.activity;
 
 import android.support.v4.app.FragmentActivity;
 

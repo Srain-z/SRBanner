@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_46d52f716363c2a78fed685e9421509b4dd62c61/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3938f006d391205cf47046f15805761f42e0c361">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0157147e5760ae0a6e7ae47f0ad143d4c681698/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_8dbda0f49429bc256bb16e49ea4a1248316e8889/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9750443ceeae15fa2d3c66552068c7dfb28d0cc4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_900016fd713c37ad4c1f8ec798c22d8460dd12c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f29eb1b3e521284d9dc9a829f777a28d1a8c2505/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_b8daa225f139f74efdd5fedb401c10f95aba7850/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3f16335aab82c6b1521bd320f4c9ef95289f95d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_dd549381389244c55e433388e14def2a9921df7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e167a38113c45f2c0853cf0ad9985b1ea52af787/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="eca107a66093fe1194c2bf9129656326040ccaaa">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ba106b669ad36315d32cc112946481d9118ed038/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_4ff79570c81e015623745bd550f497955ef3bd76/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bfaa3f815b23ee1350e20c4c03690e535a9c4822/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_28853bf40ae9fd5bbff0f28b34ebe4d3aaa67d46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_fc3e25f2e8df4c5320ff1970f7212b9327018194/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b957d9ced423ff282ace0796bc3bf54e44e49fa9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_2e2a793d2581ef3fa77404e3b10db2203e87b5c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_318beb7ab897f552e189a761ee68e1bb0220c873/classes.dex" />
+    </item>
+    <item
+        jar="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/srain/Desktop/my_gitHub/SRBanner/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_5f1084c8d7c8c10ff3ac270f50b8afa977f7d560/classes.dex" />
+    </item>
+
+</items>
